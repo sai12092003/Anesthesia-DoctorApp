@@ -1,6 +1,6 @@
 # Anesthesia Managing App
 
-![Anesthesia Managing App](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/PUFF.png?raw=true,width=160px)
+<img src="https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/PUFF.png?raw=true" alt="Anesthesia Managing App" width="200"/>
 
 ## Overview
 
