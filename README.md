@@ -24,15 +24,12 @@ This app also integrates Google Translation, enabling multilingual communication
 
 | Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
 |--------------|--------------|--------------|--------------|
-| ![Screenshot 5](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/5.jpeg?raw=true) | ![Screenshot 6](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/6.jpeg?raw=true) | ![Screenshot 7](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/7.jpeg?raw=true) | ![Screenshot 8](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/8.jpeg?raw=true) |
+| ![Screenshot 5](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/5.jpeg?raw=true) | ![Screenshot 6](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/6.jpeg?raw=true) | ![Screenshot 7](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/7.jpeg?raw=true) | ![Screenshot 8](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/9.jpeg?raw=true) |
 
 | Screenshot 9 | Screenshot 10 | Screenshot 11 | Screenshot 12 |
 |--------------|--------------|--------------|--------------|
-| ![Screenshot 9](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/9.jpeg?raw=true) | ![Screenshot 10](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/10.jpeg?raw=true) | ![Screenshot 11](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/11.jpeg?raw=true) | ![Screenshot 12](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/12.jpeg?raw=true) |
+| ![Screenshot 9](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/10.jpeg?raw=true) | ![Screenshot 10](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/11.jpeg?raw=true) | ![Screenshot 11](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/12.jpeg?raw=true) | ![Screenshot 12](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/13.jpeg?raw=true) |
 
-| Screenshot 13 |
-|--------------|
-| ![Screenshot 13](https://github.com/sai12092003/Anesthesia-DoctorApp/blob/main/13.jpeg?raw=true) |
 
 ## Development
 
